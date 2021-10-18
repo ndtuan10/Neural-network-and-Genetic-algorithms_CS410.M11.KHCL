@@ -1,0 +1,25 @@
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 160
+Chon function Onemax hay trap5: (0: onemax, 1: trap5): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+Ket qua 10 lan chay bisection: 0
+Ket qua 10 lan chay bisection: 1
+Ket qua 10 lan chay bisection: 2
+Ket qua 10 lan chay bisection: 3
+Ket qua 10 lan chay bisection: 4
+Ket qua 10 lan chay bisection: 5
+Ket qua 10 lan chay bisection: 6
+Ket qua 10 lan chay bisection: 7
+Ket qua 10 lan chay bisection: 8
+Ket qua 10 lan chay bisection: 9
+2560 101376 18520186
+1536 64512 18520196
+1920 76608 18520206
+2048 84787.2 18520216
+2048 83558.4 18520226
+1792 74726.4 18520236
+2176 88780.8 18520246
+2304 93312 18520256
+2304 96307.2 18520266
+3328 128461 18520276
+Ket qua MRPS cua sGA cho phep lai va function tuong ung la:2201.6 464.342
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:89242.9 16691.6

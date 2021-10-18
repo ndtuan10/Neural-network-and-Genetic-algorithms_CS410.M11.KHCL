@@ -1,0 +1,23 @@
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+Ket qua 10 lan chay bisection: 0
+Ket qua 10 lan chay bisection: 1
+Ket qua 10 lan chay bisection: 2
+Ket qua 10 lan chay bisection: 3
+Ket qua 10 lan chay bisection: 4
+Ket qua 10 lan chay bisection: 5
+Ket qua 10 lan chay bisection: 6
+Ket qua 10 lan chay bisection: 7
+Ket qua 10 lan chay bisection: 8
+Ket qua 10 lan chay bisection: 9
+68 986 18520186
+60 852 18520196
+60 858 18520206
+48 696 18520216
+60 852 18520226
+60 852 18520236
+52 738.4 18520246
+60 846 18520256
+60 852 18520266
+48 715.2 18520276
+Ket qua MRPS cua sGA cho phep lai va function tuong ung la:57.6 5.98665
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:824.76 81.5862
