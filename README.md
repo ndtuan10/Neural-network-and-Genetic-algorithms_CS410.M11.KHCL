@@ -17,4 +17,10 @@ Contents of exercises and projects of Selected Topics in Image Processing and Ap
 - [Baitap5: Continuous Optimization with Cross-Entropy Method (CEM)](https://github.com/ndtuan10/Neural-network-and-Genetic-algorithms_CS410.M11.KHCL/blob/main/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20Cross-Entropy%20(Cross-Entropy%20Method)/Continuous_Optimization_with_Cross_Entropy_Method_(CEM).ipynb)
 
  
-### [Tối ưu bầy đàn (Partical Swarm Optimization)]
+### [Hồi quy luận lí (Logistic Regression)](https://github.com/ndtuan10/Neural-network-and-Genetic-algorithms_CS410.M11.KHCL/tree/main/Logistic%20Regression)
+- [Baitap6: Logistic Regression on Folio dataset](https://github.com/ndtuan10/Neural-network-and-Genetic-algorithms_CS410.M11.KHCL/blob/main/Logistic%20Regression/Logistic_Regression_Folio.ipynb)
+
+### [Neural network](https://github.com/ndtuan10/Neural-network-and-Genetic-algorithms_CS410.M11.KHCL/tree/main/Neural%20Network)
+- [Baitap7: Neural Network on Fashion-MNIST dataset](https://github.com/ndtuan10/Neural-network-and-Genetic-algorithms_CS410.M11.KHCL/blob/main/Neural%20Network/MLP-LeNet_5_FashionMNIST.ipynb)
+- [Baitap8: Neural Network on CIFAR10 dataset](https://github.com/ndtuan10/Neural-network-and-Genetic-algorithms_CS410.M11.KHCL/blob/main/Neural%20Network/MLP-LeNet_5_Cifar10.ipynb)
+
